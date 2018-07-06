@@ -69,6 +69,41 @@ public class Main {
 }
 ```
 
+### Compare thread and runnable
+1. runnale no need inherit, so it has chance to  inherit other class 
+2. same runnable can be a running in many threads
+```java
+public class Main {
+
+    public static void main(String[] args) {
+
+        Hiker hiker = new Hiker();
+        Thread t3 = new Thread(hiker);
+        Thread t4 = new Thread(hiker);
+
+        t3.start();
+        t4.start();
+
+    }
+}
+```
+
+### Thread status
+1. New
+2. Runnable
+3. Running
+4. Blocking 
+5. Dead
+
+reasons blocked:
+ 1. sleep()
+ 2. wait()
+ 3. join()
+ 4. access I/O
+ 5. access a synchronized resource 
+    1. instance method
+    2. class method
+    3. code block
 
 
 
