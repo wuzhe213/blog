@@ -21,6 +21,8 @@ hexo server  # to test <br/>
 
 ```
 
+<!--more-->
+
 push your blog to github
 ```bash
 git init

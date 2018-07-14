@@ -18,5 +18,7 @@ environment objects
             Navigator
         JS Objects
 ```
+<!--more-->
 
 ![Environment Objects](https://javascript.info/article/browser-environment/windowObjects@2x.png)
+

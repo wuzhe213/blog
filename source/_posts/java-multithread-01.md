@@ -10,6 +10,8 @@ Two ways to do multithread in java:
 1. Thread 
 2. Runnable
 
+<!--more-->
+
 ### Thread
 
 class thread

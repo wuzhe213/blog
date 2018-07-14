@@ -15,6 +15,8 @@ date: 2018-07-01 20:04:00
 5. create mapper
 6. create test to run
 
+<!--more-->
+
 ## Steps details
 start a maven project, named tmyba. you might use intellij idea or eclipse
 

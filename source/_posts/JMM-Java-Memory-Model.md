@@ -26,5 +26,5 @@ owned by individual thread
 1. a method's primitive type values stored in working memory
 2. a method's reference type values stored in main memory, but the reference stored in working memory
 
-  
+<!--more-->
   
