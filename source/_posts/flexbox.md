@@ -8,7 +8,7 @@ tags: [react native, flexbox]
 * flex  
   0-1
 * flexDirection 
-  * column
+  * column, by default for react native
   * row
 * justifyContent
   * flex-start
@@ -28,7 +28,7 @@ tags: [react native, flexbox]
 #### Direction
 zero point: top-left
 
-1. main direcion  
+1. main direcion
    set by flexDirection
    justifyContent render along
 2. cross direction  
